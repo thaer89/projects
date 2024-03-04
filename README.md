@@ -1,6 +1,13 @@
 # Projects
 A page list most of projects I worked on during my career
 
+### Optus (July 2022 - Apr 2024)
+- #### [My Optus Android](https://play.google.com/store/apps/details?id=au.com.optus.selfservice&hl=en&gl=US) (Android)
+  - Developed an new features as Live locatopn
+  - Improve new features Like Pause , Donate your data and Wifi Secure
+  - Bug fixes over the whole app and helping other team
+  - Kotlin, MVVM, Hilt, Android , Compose, Co-routine, Retrofit, Flow, Scrum, Jira
+
 ### Datacom (Feb 2019 - Apr 2022)
 
 - #### [ASB ID version 2](https://play.google.com/store/apps/details?id=nz.co.asb.mobile.asbid&hl=en&gl=US) (Android)
