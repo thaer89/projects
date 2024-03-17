@@ -1,7 +1,7 @@
 # Projects
 A page list most of projects I worked on during my career
 
-### Optus (July 2022 - Apr 2024)
+### Optus (July 2022 - March 2024)
 - #### [My Optus Android](https://play.google.com/store/apps/details?id=au.com.optus.selfservice&hl=en&gl=US) (Android)
   - Developed an new features as Live locatopn
   - Work on and improve various features Like Pause , Donate your data and Wifi Secure
